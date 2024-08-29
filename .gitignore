@@ -1,3 +1,4 @@
 dataset/
-save/
+saved/
 .idea/
+.flake8
